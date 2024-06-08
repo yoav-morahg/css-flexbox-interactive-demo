@@ -16,10 +16,8 @@ This is a simple HTML/CSS/JavaScript project.
 
 As long as you have the folders organized as they are here, you can just open ``index.html`` in any browser.
 
-## License
+##
 
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU Affero General Public License as published by the Free
-Software Foundation, either version 3 of the License, or (at your option) any
-later version. Please see the [LICENSE](./LICENSE.md) file in this repository for
-the full text.
+Copyright &copy; 2024 Yoav Morahg
+
+
