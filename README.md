@@ -16,6 +16,16 @@ This is a simple HTML/CSS/JavaScript project.
 
 As long as you have the folders organized as they are here, you can just open ``index.html`` in any browser.
 
+## Demo
+
+View live demo [here](https://flextool.yoavmorahg.com/).
+
+<img src="./images/screenshot-1.jpg" />
+
+
+
+<img src="./images/screenshot-2.jpg" />
+
 ##
 
 Copyright &copy; 2024 Yoav Morahg

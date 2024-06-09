@@ -255,6 +255,7 @@ function updateContainer() {
 function resetContainer() {
     const container = document.getElementById("flex-container");
     container.removeAttribute('style');
+    resetDirection();
 }
 
 function resetDirection() {
@@ -883,13 +884,10 @@ function doGeneralExamples() {
 }
 
 function doGrowShrinkBasisExamples() {
-    // resetDirection();
     hideGeneral();
     showInputs();
+    resetContainer();
     restoreState();
-    // example = presetSave;
-    // wrap = wrapSave;
-    // doPreset(example);
 }
 
 function showGeneral() {
