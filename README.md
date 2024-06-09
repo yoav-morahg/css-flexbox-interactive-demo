@@ -18,7 +18,7 @@ As long as you have the folders organized as they are here, you can just open ``
 
 ## Demo
 
-View live demo [here](https://flextool.yoavmorahg.com/).
+View live demo <a href="https://flextool.yoavmorahg.com/" target="_blank">HERE</a>
 
 <img src="./images/screenshot-1.jpg" />
 
